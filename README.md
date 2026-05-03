@@ -4,7 +4,7 @@ Bu proje,Bahar Dönemi 2026 BİL 2004 - Veritabanı Yönetimi dersi  ödevi kaps
 
 ## 👥 Proje Ekibi ve Görev Dağılımı
 
-* **Öğrenci No:** 2023280038  
+* **Öğrenci No:** 2023280038  https://github.com/mstfa-ops
   **Görev Alanı (Uygulama ve Güvenlik):** C# ile ADO.NET kullanılarak veritabanı arayüz entegrasyonunun yapılması, kullanıcı rolleri ile kimlik doğrulama sisteminin kodlanması ve projenin GitHub sürüm kontrol süreçlerinin yönetilmesi.
 
 
